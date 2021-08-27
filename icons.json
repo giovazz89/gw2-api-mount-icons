@@ -1,0 +1,58 @@
+[
+    {
+        "id": "raptor",
+        "mount_up_icon": "https://wiki.guildwars2.com/images/b/b9/Raptor_%28skill%29.png",
+        "overhead_icon": "https://wiki.guildwars2.com/images/1/1d/Raptor_%28overhead_icon%29.png",
+        "banner": "https://wiki.guildwars2.com/images/b/b3/Raptor_banner.jpg",
+        "concept_art": "https://wiki.guildwars2.com/images/0/08/Raptor.png"
+    },
+    {
+        "id": "springer",
+        "mount_up_icon": "https://wiki.guildwars2.com/images/e/eb/Springer_%28skill%29.png",
+        "overhead_icon": "https://wiki.guildwars2.com/images/b/be/Springer_%28overhead_icon%29.png",
+        "banner": "https://wiki.guildwars2.com/images/9/96/Springer_banner.jpg",
+        "concept_art": "https://wiki.guildwars2.com/images/5/5a/Springer_%28concept_art%29.png"
+    },
+    {
+        "id": "skimmer",
+        "mount_up_icon": "https://wiki.guildwars2.com/images/7/7b/Skimmer_%28skill%29.png",
+        "overhead_icon": "https://wiki.guildwars2.com/images/c/c3/Skimmer_%28overhead_icon%29.png",
+        "banner": "https://wiki.guildwars2.com/images/6/6f/Skimmer_banner.jpg",
+        "concept_art": "https://wiki.guildwars2.com/images/d/de/Skimmer.png"
+    },
+    {
+        "id": "jackal",
+        "mount_up_icon": "https://wiki.guildwars2.com/images/f/fe/Jackal_%28skill%29.png",
+        "overhead_icon": "https://wiki.guildwars2.com/images/2/26/Jackal_%28overhead_icon%29.png",
+        "banner": "https://wiki.guildwars2.com/images/f/f4/Jackal_banner.jpg",
+        "concept_art": "https://wiki.guildwars2.com/images/7/70/Jackal.png"
+    },
+    {
+        "id": "griffon",
+        "mount_up_icon": "https://wiki.guildwars2.com/images/e/e5/Griffon_%28skill%29.png",
+        "overhead_icon": "https://wiki.guildwars2.com/images/7/79/Griffon_%28overhead_icon%29.png",
+        "banner": "https://wiki.guildwars2.com/images/7/79/Griffon_banner.jpg",
+        "concept_art": "https://wiki.guildwars2.com/images/1/16/Griffon_%28art%29.png"
+    },
+    {
+        "id": "roller_beetle",
+        "mount_up_icon": "https://wiki.guildwars2.com/images/0/0a/Roller_Beetle_%28skill%29.png",
+        "overhead_icon": "https://wiki.guildwars2.com/images/e/e1/Roller_Beetle_%28overhead_icon%29.png",
+        "banner": "https://wiki.guildwars2.com/images/f/f7/Roller_Beetle_banner.jpg",
+        "concept_art": "https://wiki.guildwars2.com/images/3/3f/Roller_Beetle.png"
+    },
+    {
+        "id": "warclaw",
+        "mount_up_icon": "https://wiki.guildwars2.com/images/f/ff/Warclaw_%28skill%29.png",
+        "overhead_icon": "https://wiki.guildwars2.com/images/d/df/Warclaw_%28overhead_icon%29.png",
+        "banner": "https://wiki.guildwars2.com/images/e/ea/Warclaw_banner.jpg",
+        "concept_art": "https://wiki.guildwars2.com/images/d/d9/Warclaw.png"
+    },
+    {
+        "id": "skyscale",
+        "mount_up_icon": "https://wiki.guildwars2.com/images/0/01/Skyscale_%28skill%29.png",
+        "overhead_icon": "https://wiki.guildwars2.com/images/3/3c/Skyscale_%28overhead_icon%29.png",
+        "banner": "https://wiki.guildwars2.com/images/4/45/Skyscale_banner.jpg",
+        "concept_art": "https://wiki.guildwars2.com/images/b/bd/Skyscale.png"
+    }
+]
